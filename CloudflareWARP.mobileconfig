@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+				<plist version="1.0">
+					<dict>
+						<key>PayloadDisplayName</key>
+						<string>Cloudflare WARP</string>
+						<key>PayloadIdentifier</key>
+						<string>cloudflare_warp</string>
+						<key>PayloadOrganization</key>
+						<string>Cloudflare, Ltd.</string>
+						<key>PayloadRemovalDisallowed</key>
+						<false/>
+						<key>PayloadType</key>
+						<string>Configuration</string>
+						<key>PayloadScope</key>
+						<string>System</string>
+						<key>PayloadUUID</key>
+						<string>F3FAA6E4-9F26-4942-B4FB-AA89EBFCA79E</string>
+						<key>PayloadVersion</key>
+						<integer>1</integer>
+						<key>PayloadContent</key>
+						<array>
+							<dict>
+								<key>PayloadDisplayName</key>
+								<string>Warp Configuration</string>
+								<key>warp_tunnel_protocol</key>
+								<string>masque</string>
+								<key>PayloadIdentifier</key>
+								<string>com.cloudflare.warp.5A31FA24-FF8C-41EA-989E-F070820F2A80</string>
+								<key>PayloadType</key>
+								<string>com.cloudflare.warp</string>
+								<key>PayloadUUID</key>
+								<string>457F66FB-9802-43BD-A59A-C34BE37A79E4</string>
+								<key>PayloadVersion</key>
+								<integer>1</integer>
+							</dict>
+						</array>
+					</dict>
+				</plist>
